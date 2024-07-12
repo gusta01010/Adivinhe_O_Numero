@@ -1,3 +1,4 @@
+#apenas teste
 dificuldade = {'1': 25, '2': 18, '3': 12}
 
 print(dificuldade['1'])
